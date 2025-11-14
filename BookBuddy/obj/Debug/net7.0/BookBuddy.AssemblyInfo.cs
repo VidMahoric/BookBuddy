@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("227dc0d2-2374-4304-bc36-214d81467ac7")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookBuddy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb8f8e24ef69eed54904bc3296e737d73ca76a05")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookBuddy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookBuddy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
