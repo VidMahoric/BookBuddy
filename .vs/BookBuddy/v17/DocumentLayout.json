@@ -3,96 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\vid\\Desktop\\BookBuddy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\auth\\follow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\auth\\follow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Auth\\Follow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Auth\\Follow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\auth\\follow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\auth\\follow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\status.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\status.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\uporabnik\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\uporabnik\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Uporabnik\\Profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Uporabnik\\Profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Uporabnik\\Profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Uporabnik\\Profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\Status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Status.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\Status.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Auth\\Follow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Auth\\Follow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\uporabnik\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\uporabnik\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Similar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\Similar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\similar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\similar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Rate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\Rate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\rate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\rate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Rate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\Rate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\rate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\rate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Auth\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Auth\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\random.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\random.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Random.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\Random.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\List.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\List.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\List.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\List.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Models\\Knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\Add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\books\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\books\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Books\\Add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\auth\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\auth\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Auth\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Auth\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|c:\\users\\vid\\desktop\\bookbuddy\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{807DCBD0-60C1-412C-806A-3E9D962050E3}|BookBuddy.csproj|solutionrelative:pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Auth\\Login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Auth\\Login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -118,12 +118,11 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-15T19:02:49.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T19:02:49.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -131,12 +130,11 @@
               "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T19:02:21.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T19:02:21.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -144,12 +142,11 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAEAAAAAAAAAAAAAwwGYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T18:59:40.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:59:40.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
@@ -157,12 +154,11 @@
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:59:29.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:59:29.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -170,12 +166,11 @@
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T18:59:07.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:59:07.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Uporabnik\\Profile.cshtml",
               "RelativeDocumentMoniker": "Pages\\Uporabnik\\Profile.cshtml",
@@ -183,12 +178,11 @@
               "RelativeToolTip": "Pages\\Uporabnik\\Profile.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T18:53:24.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:53:24.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Profile.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Uporabnik\\Profile.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Uporabnik\\Profile.cshtml.cs",
@@ -196,12 +190,11 @@
               "RelativeToolTip": "Pages\\Uporabnik\\Profile.cshtml.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:52:30.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:52:30.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Status.cshtml",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Status.cshtml",
               "RelativeDocumentMoniker": "Pages\\Books\\Status.cshtml",
@@ -209,12 +202,11 @@
               "RelativeToolTip": "Pages\\Books\\Status.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T18:52:18.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:52:18.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Status.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Status.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Books\\Status.cshtml.cs",
@@ -222,8 +214,7 @@
               "RelativeToolTip": "Pages\\Books\\Status.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:51:35.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:51:35.052Z"
             },
             {
               "$type": "Document",
@@ -233,14 +224,12 @@
               "RelativeDocumentMoniker": "Pages\\Auth\\Follow.cshtml",
               "ToolTip": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Auth\\Follow.cshtml",
               "RelativeToolTip": "Pages\\Auth\\Follow.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T18:45:10.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:45:10.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Follow.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Auth\\Follow.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Auth\\Follow.cshtml.cs",
@@ -248,12 +237,11 @@
               "RelativeToolTip": "Pages\\Auth\\Follow.cshtml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwDoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:41:13.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:41:13.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Similar.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Similar.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Books\\Similar.cshtml.cs",
@@ -261,12 +249,11 @@
               "RelativeToolTip": "Pages\\Books\\Similar.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAlwBwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:51:32.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:51:32.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Rate.cshtml",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Rate.cshtml",
               "RelativeDocumentMoniker": "Pages\\Books\\Rate.cshtml",
@@ -274,12 +261,11 @@
               "RelativeToolTip": "Pages\\Books\\Rate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T18:51:21.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:51:21.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Rate.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Rate.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Books\\Rate.cshtml.cs",
@@ -287,12 +273,11 @@
               "RelativeToolTip": "Pages\\Books\\Rate.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:50:31.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:50:31.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "Pages\\Auth\\Register.cshtml",
@@ -300,8 +285,7 @@
               "RelativeToolTip": "Pages\\Auth\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T18:47:20.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:47:20.248Z"
             },
             {
               "$type": "Document",
@@ -313,8 +297,7 @@
               "RelativeToolTip": "Pages\\Books\\Random.cshtml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAlwCQAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:50:27.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:50:27.8Z"
             },
             {
               "$type": "Document",
@@ -326,8 +309,7 @@
               "RelativeToolTip": "Pages\\Books\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T18:50:16.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:50:16.15Z"
             },
             {
               "$type": "Document",
@@ -339,12 +321,11 @@
               "RelativeToolTip": "Pages\\Books\\List.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:49:30.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:49:30.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Knjiga.cs",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Models\\Knjiga.cs",
               "RelativeDocumentMoniker": "Models\\Knjiga.cs",
@@ -352,12 +333,11 @@
               "RelativeToolTip": "Models\\Knjiga.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:49:16.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:49:16.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Add.cshtml",
               "RelativeDocumentMoniker": "Pages\\Books\\Add.cshtml",
@@ -365,12 +345,11 @@
               "RelativeToolTip": "Pages\\Books\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T18:48:22.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:48:22.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Add.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\vid\\Desktop\\BookBuddy\\Pages\\Books\\Add.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Books\\Add.cshtml.cs",
@@ -378,8 +357,7 @@
               "RelativeToolTip": "Pages\\Books\\Add.cshtml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAvwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:47:28.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:47:28.651Z"
             },
             {
               "$type": "Document",
@@ -391,8 +369,7 @@
               "RelativeToolTip": "Pages\\Auth\\Register.cshtml.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwCYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:46:27.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:46:27.181Z"
             },
             {
               "$type": "Document",
@@ -404,8 +381,7 @@
               "RelativeToolTip": "Pages\\Auth\\Login.cshtml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:45:15.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:45:15.876Z"
             }
           ]
         }
