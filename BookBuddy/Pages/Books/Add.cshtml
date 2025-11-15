@@ -1,0 +1,27 @@
+@page
+@model BookBuddy.Pages.Books.AddModel
+
+<h2>Dodaj novo knjigo</h2>
+
+<form method="post">
+
+    <input asp-for="NewBook.Title" placeholder="Naslov" class="form-control" />
+    <span asp-validation-for="NewBook.Title" class="text-danger"></span>
+
+    <input asp-for="NewBook.Author" placeholder="Avtor" class="form-control" />
+    <span asp-validation-for="NewBook.Author" class="text-danger"></span>
+
+    <input asp-for="NewBook.Genre" placeholder="Žanr" class="form-control" />
+    <span asp-validation-for="NewBook.Genre" class="text-danger"></span>
+
+    <input asp-for="NewBook.Year" placeholder="Leto" class="form-control" />
+    <span asp-validation-for="NewBook.Year" class="text-danger"></span>
+
+    <textarea asp-for="NewBook.Description" placeholder="Opis" class="form-control"></textarea>
+    <span asp-validation-for="NewBook.Description" class="text-danger"></span>
+
+    <input asp-for="NewBook.Ocena" type="number" min="1" max="5" placeholder="Ocena (1–5)" class="form-control mt-2" />
+    <span asp-validation-for="NewBook.Ocena" class="text-danger"></span>
+
+    <button type="submit" class="btn btn-primary mt-3">Dodaj</button>
+</form>
