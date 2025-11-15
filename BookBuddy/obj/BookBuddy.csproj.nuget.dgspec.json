@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/BookBuddy.csproj": {}
+    "/Users/aleks/BookBuddy/BookBuddy/BookBuddy.csproj": {}
   },
   "projects": {
-    "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/BookBuddy.csproj": {
+    "/Users/aleks/BookBuddy/BookBuddy/BookBuddy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/BookBuddy.csproj",
+        "projectUniqueName": "/Users/aleks/BookBuddy/BookBuddy/BookBuddy.csproj",
         "projectName": "BookBuddy",
-        "projectPath": "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/BookBuddy.csproj",
-        "packagesPath": "/Users/vid.mahoric/.nuget/packages/",
-        "outputPath": "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/obj/",
+        "projectPath": "/Users/aleks/BookBuddy/BookBuddy/BookBuddy.csproj",
+        "packagesPath": "/Users/aleks/.nuget/packages/",
+        "outputPath": "/Users/aleks/BookBuddy/BookBuddy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vid.mahoric/.nuget/NuGet/NuGet.Config"
+          "/Users/aleks/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net9.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -33,11 +32,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,37 @@
+@page
+@model BookBuddy.Pages.Books.ListModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2>Seznam knjig</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Naslov</th>
+            <th>Avtor</th>
+            <th>Leto</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var book in Model.Books)
+    {
+        <tr>
+            <td>
+                <a asp-page="/Books/Details" asp-route-id="@book.Id">
+                    @book.Title
+                </a>
+            </td>
+            <td>@book.Author</td>
+            <td>@book.Year</td>
+
+            <td>
+                <form method="post" asp-page-handler="Delete" asp-route-id="@book.Id"
+                      onsubmit="return confirm('Ali res želite izbrisati knjigo?');">
+                    <button class="btn btn-danger">Izbriši</button>
+                </form>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
