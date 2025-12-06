@@ -18,7 +18,7 @@ jobs:
           dotnet-version: 8.0.x
 
       - name: Restore
-        run: dotnet restore BookBuddy.sln
+        run: dotnet restore
 
       - name: Run tests with TRX output
         run: dotnet test BookBuddy.Tests/BookBuddy.Tests.csproj --logger "trx;LogFileName=test.trx" || true
