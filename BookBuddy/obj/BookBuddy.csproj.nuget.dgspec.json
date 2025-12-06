@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vid.mahoric/Desktop/FERI/RAZVOJinGRADNJA/BookBuddy/BookBuddy/BookBuddy.csproj": {}
+    "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/BookBuddy.csproj": {}
   },
   "projects": {
-    "/Users/vid.mahoric/Desktop/FERI/RAZVOJinGRADNJA/BookBuddy/BookBuddy/BookBuddy.csproj": {
+    "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/BookBuddy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vid.mahoric/Desktop/FERI/RAZVOJinGRADNJA/BookBuddy/BookBuddy/BookBuddy.csproj",
+        "projectUniqueName": "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/BookBuddy.csproj",
         "projectName": "BookBuddy",
-        "projectPath": "/Users/vid.mahoric/Desktop/FERI/RAZVOJinGRADNJA/BookBuddy/BookBuddy/BookBuddy.csproj",
+        "projectPath": "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/BookBuddy.csproj",
         "packagesPath": "/Users/vid.mahoric/.nuget/packages/",
-        "outputPath": "/Users/vid.mahoric/Desktop/FERI/RAZVOJinGRADNJA/BookBuddy/BookBuddy/obj/",
+        "outputPath": "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vid.mahoric/.nuget/NuGet/NuGet.Config"

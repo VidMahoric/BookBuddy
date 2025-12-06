@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="021b1dbe-5b8a-4bcd-b835-aa3ba596cd11" name="@Vids-MacBook-Air-3 2025-12-06 18:05:24" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-12-06T18:05:24.1661140+01:00" queuing="2025-12-06T18:05:24.1661140+01:00" start="2025-12-06T18:05:23.3149400+01:00" finish="2025-12-06T18:05:24.2712000+01:00" />
+  <TestSettings name="default" id="9179e18a-d2a9-413f-a7d5-6a87fc9d7efe">
+    <Deployment runDeploymentRoot="_Vids-MacBook-Air-3_2025-12-06_18_05_24" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="a6c2068e-91fb-4338-a6ad-aea82159df60" testId="7d64ce6d-d48d-c904-011d-66126eddf998" testName="Test_OnPost_Follow_AddsUserToFollowing" computerName="Vids-MacBook-Air-3" duration="00:00:00.0004895" startTime="2025-12-06T18:05:24.2452410+01:00" endTime="2025-12-06T18:05:24.2457560+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a6c2068e-91fb-4338-a6ad-aea82159df60" />
+    <UnitTestResult executionId="602a3a61-b369-45b8-b134-2d9bff28d142" testId="36e4c318-0510-0c12-f48c-bb6e8032ce15" testName="Test_OnPost_NotLoggedIn_RedirectToLogin" computerName="Vids-MacBook-Air-3" duration="00:00:00.3148754" startTime="2025-12-06T18:05:23.7165720+01:00" endTime="2025-12-06T18:05:24.0392510+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="602a3a61-b369-45b8-b134-2d9bff28d142" />
+    <UnitTestResult executionId="a38a72e0-75e8-46ee-92a8-45e85e88c4df" testId="9d8c4e36-7cbb-c9c9-1b8b-b5d3de17e77e" testName="Test_OnPost_SetsCurrentDateTime" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000971" startTime="2025-12-06T18:05:24.1229750+01:00" endTime="2025-12-06T18:05:24.1230860+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a38a72e0-75e8-46ee-92a8-45e85e88c4df" />
+    <UnitTestResult executionId="7187c86c-654c-4f2d-b201-7c1939c8a371" testId="e722059b-3db4-19a0-0ce9-3fecee865cad" testName="Test_OnGet_OrdersCommentsByDateDescending" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001284" startTime="2025-12-06T18:05:24.1251830+01:00" endTime="2025-12-06T18:05:24.1253260+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7187c86c-654c-4f2d-b201-7c1939c8a371" />
+    <UnitTestResult executionId="aea2fde3-b2f2-4800-b1ca-903f9206e06b" testId="60b0788f-3512-2f53-3920-ff5c3055ce27" testName="Test_OnGet_FiltersCommentsByBookId" computerName="Vids-MacBook-Air-3" duration="00:00:00.0006724" startTime="2025-12-06T18:05:24.1243480+01:00" endTime="2025-12-06T18:05:24.1250390+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aea2fde3-b2f2-4800-b1ca-903f9206e06b" />
+    <UnitTestResult executionId="edbf6c7c-8d39-43ae-8066-7d1be03ba0d2" testId="1e71b349-a98d-ed74-06fa-a3917a102824" testName="Test_OnGet_WithMixedBooks_CalculatesCorrectStatistics" computerName="Vids-MacBook-Air-3" duration="00:00:00.0032583" startTime="2025-12-06T18:05:24.2388260+01:00" endTime="2025-12-06T18:05:24.2421400+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="edbf6c7c-8d39-43ae-8066-7d1be03ba0d2" />
+    <UnitTestResult executionId="9bf59b3d-fc07-4274-a51c-9ead1c883887" testId="83063fde-2333-e57e-bacd-a75049076097" testName="Test_TrenutniUporabnikIme_ReturnsCorrectUsername" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000635" startTime="2025-12-06T18:05:24.1250480+01:00" endTime="2025-12-06T18:05:24.1251290+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9bf59b3d-fc07-4274-a51c-9ead1c883887" />
+    <UnitTestResult executionId="046b353f-0989-4c4d-ad8a-075e8d7602c7" testId="c3548261-9132-d4fc-36f4-49d5626ddffe" testName="Test_OnGet_NotFound" computerName="Vids-MacBook-Air-3" duration="00:00:00.0022812" startTime="2025-12-06T18:05:24.1284140+01:00" endTime="2025-12-06T18:05:24.1307550+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="046b353f-0989-4c4d-ad8a-075e8d7602c7" />
+    <UnitTestResult executionId="34241708-e2a5-4be3-a519-7f06fd0cee16" testId="367ce0a1-ab85-54c7-ab27-09e9098e8dd3" testName="Test_OnGet_WithNoBooks_ReturnsZeroStatistics" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001606" startTime="2025-12-06T18:05:24.2421660+01:00" endTime="2025-12-06T18:05:24.2423680+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="34241708-e2a5-4be3-a519-7f06fd0cee16" />
+    <UnitTestResult executionId="6d166483-4528-4b82-bdd5-97517b5c49bd" testId="8e003934-32b5-20fc-14f9-088b4868cf21" testName="Test_OnPost_InvalidCredentials_ReturnsPageWithError" computerName="Vids-MacBook-Air-3" duration="00:00:00.0010139" startTime="2025-12-06T18:05:24.1075620+01:00" endTime="2025-12-06T18:05:24.1087460+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6d166483-4528-4b82-bdd5-97517b5c49bd" />
+    <UnitTestResult executionId="6ec63a76-9e62-438f-bd26-124cfbe36ae2" testId="39b0f8b4-50ca-67d3-f8ba-c776722586eb" testName="Test_OnGet_LoadsBook" computerName="Vids-MacBook-Air-3" duration="00:00:00.0029755" startTime="2025-12-06T18:05:24.1253320+01:00" endTime="2025-12-06T18:05:24.1283760+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6ec63a76-9e62-438f-bd26-124cfbe36ae2" />
+    <UnitTestResult executionId="fa95c5ea-6b28-41c0-901a-d3b4485d7a7a" testId="4b5736c7-bd9e-4412-b792-dd7b247642ae" testName="Test_OnPost_Unfollow_RemovesUserFromFollowing" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001786" startTime="2025-12-06T18:05:24.2457650+01:00" endTime="2025-12-06T18:05:24.2459650+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fa95c5ea-6b28-41c0-901a-d3b4485d7a7a" />
+    <UnitTestResult executionId="69df7749-adde-455b-9b9a-e62579d4dcf6" testId="0d4601bd-2145-4426-10fb-1faf944e2fef" testName="Test_Status_AllowsAnyString" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000340" startTime="2025-12-06T18:05:24.2471080+01:00" endTime="2025-12-06T18:05:24.2471700+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="69df7749-adde-455b-9b9a-e62579d4dcf6" />
+    <UnitTestResult executionId="ce4cf705-8554-44eb-8344-5a0551b2bd48" testId="11d38b96-c14b-623a-5f4e-79db3a5ed217" testName="Test_OnGet_WithVsiZanrFilter_ShowsAllBooks" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001076" startTime="2025-12-06T18:05:24.2346010+01:00" endTime="2025-12-06T18:05:24.2347330+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce4cf705-8554-44eb-8344-5a0551b2bd48" />
+    <UnitTestResult executionId="db4b7bee-3f50-412d-97f7-b094ac5da9d6" testId="54521d38-042a-39ff-3007-71350bc101c6" testName="Test_OnGet_LoadsActivitiesFromDataStore" computerName="Vids-MacBook-Air-3" duration="00:00:00.0002222" startTime="2025-12-06T18:05:24.2441000+01:00" endTime="2025-12-06T18:05:24.2444070+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="db4b7bee-3f50-412d-97f7-b094ac5da9d6" />
+    <UnitTestResult executionId="c02800af-1a14-466a-8edb-016ec944af7e" testId="c3ad1190-a6fb-826a-cf67-790c2a8f1a88" testName="Test_OnPost_WithValidComment_AddsCommentToDataStore" computerName="Vids-MacBook-Air-3" duration="00:00:00.0003758" startTime="2025-12-06T18:05:24.1222470+01:00" endTime="2025-12-06T18:05:24.1226430+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c02800af-1a14-466a-8edb-016ec944af7e" />
+    <UnitTestResult executionId="debcc1b2-db89-42d2-9d0c-2f1ee83f8121" testId="c45d22d9-df65-8f10-08ae-23726d7bc196" testName="Test_OnPost_WithValidRating_UpdatesBookRatingAndAddsActivity" computerName="Vids-MacBook-Air-3" duration="00:00:00.0003600" startTime="2025-12-06T18:05:24.2370730+01:00" endTime="2025-12-06T18:05:24.2374720+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="debcc1b2-db89-42d2-9d0c-2f1ee83f8121" />
+    <UnitTestResult executionId="c0e1c2b6-1078-4411-a204-0882befeb8a6" testId="6030637c-4a22-7455-8633-34b95c48cf27" testName="Test_OnGet_CallsRazvrstiKnjigeWithCorrectParameters" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000944" startTime="2025-12-06T18:05:24.2347430+01:00" endTime="2025-12-06T18:05:24.2348560+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c0e1c2b6-1078-4411-a204-0882befeb8a6" />
+    <UnitTestResult executionId="098ca9a0-f9d8-457c-bc23-d29c60e46eb2" testId="35aa97a3-159e-9d02-dbcf-25a91a656417" testName="Test_OnPost_WithZeroId_ReturnsErrorMessage" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001750" startTime="2025-12-06T18:05:24.2437990+01:00" endTime="2025-12-06T18:05:24.2440630+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="098ca9a0-f9d8-457c-bc23-d29c60e46eb2" />
+    <UnitTestResult executionId="3ab36a4a-88ea-4350-b98d-5f84a0bd2300" testId="4328df39-6c62-fab9-0f35-355b5650c26a" testName="Test_OnGet_WithIzbraneKnjige_ReturnsSimilarBooksSameGenre" computerName="Vids-MacBook-Air-3" duration="00:00:00.0004992" startTime="2025-12-06T18:05:24.2380430+01:00" endTime="2025-12-06T18:05:24.2385830+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ab36a4a-88ea-4350-b98d-5f84a0bd2300" />
+    <UnitTestResult executionId="90db9a10-b7b7-4343-a61d-646471ee8ff7" testId="f5c6aff2-0a3b-f6cb-79aa-2bcfa47379b4" testName="Test_OnGet_WithIzbraneKnjigeButNoSimilar_ReturnsEmptyList" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000828" startTime="2025-12-06T18:05:24.2387190+01:00" endTime="2025-12-06T18:05:24.2388190+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90db9a10-b7b7-4343-a61d-646471ee8ff7" />
+    <UnitTestResult executionId="e74562c6-9a80-4533-849b-249eb72044b9" testId="3995413e-b8c2-b453-6f6b-2ea0adef54fb" testName="Test_OnGet_Filtering" computerName="Vids-MacBook-Air-3" duration="00:00:00.0038315" startTime="2025-12-06T18:05:24.2196800+01:00" endTime="2025-12-06T18:05:24.2235530+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e74562c6-9a80-4533-849b-249eb72044b9" />
+    <UnitTestResult executionId="b4175f8c-4d82-4108-b897-cea2c3d711df" testId="bc32a502-d063-dc15-4daf-802342bda387" testName="Test_OnPost_WithNullCurrentUser_UsesGuestName" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001276" startTime="2025-12-06T18:05:24.1228260+01:00" endTime="2025-12-06T18:05:24.1229680+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b4175f8c-4d82-4108-b897-cea2c3d711df" />
+    <UnitTestResult executionId="c2765c2b-4cd6-4510-b1c3-34b40bbe3d2f" testId="45008162-0e04-553c-6515-ef581a3c2564" testName="Test_UserAllowsUpdatingProperties" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000526" startTime="2025-12-06T18:05:24.2485010+01:00" endTime="2025-12-06T18:05:24.2488480+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c2765c2b-4cd6-4510-b1c3-34b40bbe3d2f" />
+    <UnitTestResult executionId="f80e2147-a488-4f6c-be1f-b1ac7348fee1" testId="ea6fcea1-0a49-d829-dd95-3314cb5197e9" testName="Test_ZanrOptions_IncludesAllGenresFromDataStore" computerName="Vids-MacBook-Air-3" duration="00:00:00.0003160" startTime="2025-12-06T18:05:24.2359690+01:00" endTime="2025-12-06T18:05:24.2363040+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f80e2147-a488-4f6c-be1f-b1ac7348fee1" />
+    <UnitTestResult executionId="905add11-468e-424d-9397-910862a8a08b" testId="3340e321-c150-b4e2-bbdb-cb17daa2b576" testName="Test_OnPost_UsernameExists_ReturnsPageWithError" computerName="Vids-MacBook-Air-3" duration="00:00:00.0003779" startTime="2025-12-06T18:05:24.1092420+01:00" endTime="2025-12-06T18:05:24.1096790+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="905add11-468e-424d-9397-910862a8a08b" />
+    <UnitTestResult executionId="964fc155-b514-4a8e-b1de-765329305fd0" testId="7804b9cb-23bf-096d-672b-2ff87e93e617" testName="Test_OnPost_ValidRegistration_AddsActivity" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000646" startTime="2025-12-06T18:05:24.1217250+01:00" endTime="2025-12-06T18:05:24.1218130+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="964fc155-b514-4a8e-b1de-765329305fd0" />
+    <UnitTestResult executionId="093f7b8a-acb0-400e-b309-4300bedd5cf8" testId="30e9fe08-c01e-2094-4ee2-a863937adcfe" testName="Test_OnPost_WithNullCurrentUser_ReturnsPage" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000398" startTime="2025-12-06T18:05:24.2461510+01:00" endTime="2025-12-06T18:05:24.2462100+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="093f7b8a-acb0-400e-b309-4300bedd5cf8" />
+    <UnitTestResult executionId="29ad6348-5347-418c-92be-d720a3aa47bf" testId="318f8b18-b1c0-73ce-1e5d-766e2e17d339" testName="Test_OnPost_ReturnsRedirectAndSetsRandomBook" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000989" startTime="2025-12-06T18:05:24.2369500+01:00" endTime="2025-12-06T18:05:24.2370660+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="29ad6348-5347-418c-92be-d720a3aa47bf" />
+    <UnitTestResult executionId="5a87f225-d96d-48ff-adbe-ba07fc2686f0" testId="afa8150c-c690-b714-1332-5874d927185b" testName="Test_OnGet_WithNoRatedBooks_CalculatesZeroAverageRating" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001446" startTime="2025-12-06T18:05:24.2423820+01:00" endTime="2025-12-06T18:05:24.2425510+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a87f225-d96d-48ff-adbe-ba07fc2686f0" />
+    <UnitTestResult executionId="1c918490-bcb3-4a94-8d24-6437bacc58e2" testId="1652130e-1d0e-77c1-0565-25dc30e9ee25" testName="Test_OnPost_Valid_UpdatesBook" computerName="Vids-MacBook-Air-3" duration="00:00:00.0826637" startTime="2025-12-06T18:05:24.1329920+01:00" endTime="2025-12-06T18:05:24.2157130+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c918490-bcb3-4a94-8d24-6437bacc58e2" />
+    <UnitTestResult executionId="feea8a6f-8491-4db3-9231-337d3135f0bc" testId="08ad6991-f7a1-fab3-039c-40298d3366df" testName="Test_DefaultPropertyValues_AreSetCorrectly" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000603" startTime="2025-12-06T18:05:24.2357780+01:00" endTime="2025-12-06T18:05:24.2358570+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="feea8a6f-8491-4db3-9231-337d3135f0bc" />
+    <UnitTestResult executionId="ed1ab31c-f544-4252-9862-da5c3aa283ac" testId="435d2ac4-df62-cb88-ef04-e7bdad68e905" testName="Test_OnPost_WithEmptyComment_DoesNotAddComment" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000661" startTime="2025-12-06T18:05:24.1226520+01:00" endTime="2025-12-06T18:05:24.1227360+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ed1ab31c-f544-4252-9862-da5c3aa283ac" />
+    <UnitTestResult executionId="6c8e0dd6-7eba-434c-91c2-f632d6cc618f" testId="c7970cce-8d23-7f04-6284-9efcb5d21e61" testName="Test_OnGet_FindsBookById" computerName="Vids-MacBook-Air-3" duration="00:00:00.0006085" startTime="2025-12-06T18:05:24.1235620+01:00" endTime="2025-12-06T18:05:24.1242220+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c8e0dd6-7eba-434c-91c2-f632d6cc618f" />
+    <UnitTestResult executionId="2c26f9fd-d487-4a7c-9e82-a28626a6ba35" testId="4c93bbeb-28b0-173b-1411-df7b2bfdc8a8" testName="Test_SortOptions_AreCorrectlyInitialized" computerName="Vids-MacBook-Air-3" duration="00:00:00.0003204" startTime="2025-12-06T18:05:24.2348640+01:00" endTime="2025-12-06T18:05:24.2352020+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c26f9fd-d487-4a7c-9e82-a28626a6ba35" />
+    <UnitTestResult executionId="d53a7ac1-9359-4aa9-affb-0ffd4e1881c6" testId="7a535069-a7dd-bcf5-8e41-48341fb1b47c" testName="Test_OnGet_WithNonExistentId_SetsBookToNull" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000865" startTime="2025-12-06T18:05:24.1242330+01:00" endTime="2025-12-06T18:05:24.1243400+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d53a7ac1-9359-4aa9-affb-0ffd4e1881c6" />
+    <UnitTestResult executionId="1688ebd7-8d06-4e29-9379-dbc8002a9c0c" testId="e30d5dd4-81d0-59c0-d67b-4c55b1ff7070" testName="Test_OnGet_WithBooks_SetsRandomBookAndAddsActivity" computerName="Vids-MacBook-Air-3" duration="00:00:00.0004581" startTime="2025-12-06T18:05:24.2363140+01:00" endTime="2025-12-06T18:05:24.2368290+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1688ebd7-8d06-4e29-9379-dbc8002a9c0c" />
+    <UnitTestResult executionId="4eed1d5d-1e63-40c2-8daa-85c26de6f853" testId="f90798a0-7ac7-bcc0-24e5-b0ad5590f540" testName="Test_OnPost_WithNonExistentBook_ReturnsErrorMessage" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001166" startTime="2025-12-06T18:05:24.2432060+01:00" endTime="2025-12-06T18:05:24.2433520+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4eed1d5d-1e63-40c2-8daa-85c26de6f853" />
+    <UnitTestResult executionId="42f821e0-b2b6-4cab-8f88-0c08d13cc2e0" testId="e84f7475-30e0-e155-278e-e6eb1d13635d" testName="Test_DefaultValues_AreEmptyStrings" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001093" startTime="2025-12-06T18:05:24.2477740+01:00" endTime="2025-12-06T18:05:24.2479190+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="42f821e0-b2b6-4cab-8f88-0c08d13cc2e0" />
+    <UnitTestResult executionId="bd147c2a-81eb-43c7-8917-3fe95ddcf978" testId="5256f161-f0a2-b75e-c506-52ca8d376657" testName="Test_OnGet_WithNoIzbraneKnjige_ReturnsEmptyList" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001001" startTime="2025-12-06T18:05:24.2385920+01:00" endTime="2025-12-06T18:05:24.2387110+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd147c2a-81eb-43c7-8917-3fe95ddcf978" />
+    <UnitTestResult executionId="db8fd5ba-8132-4aee-9417-811e11f657f2" testId="f01b1590-7c02-fd2b-bd2a-37c8d1c69c9c" testName="Test_OnPost_InvalidModel_ReturnsPage" computerName="Vids-MacBook-Air-3" duration="00:00:00.0084143" startTime="2025-12-06T18:05:24.0415480+01:00" endTime="2025-12-06T18:05:24.0500940+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="db8fd5ba-8132-4aee-9417-811e11f657f2" />
+    <UnitTestResult executionId="3d818947-80cd-4f67-a7c9-5a5aaedcd0d0" testId="4f66684a-0732-a1da-849e-a4314a2c7bdf" testName="Test_OnPost_WithNonExistentBook_ReturnsPageWithErrorMessage" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000727" startTime="2025-12-06T18:05:24.2379390+01:00" endTime="2025-12-06T18:05:24.2380340+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d818947-80cd-4f67-a7c9-5a5aaedcd0d0" />
+    <UnitTestResult executionId="dbd3539c-d5dc-4aab-ba1c-74c389ee8732" testId="6a3f6d7d-3eb2-6929-8342-88a060469781" testName="Test_CanSetAllProperties" computerName="Vids-MacBook-Air-3" duration="00:00:00.0003380" startTime="2025-12-06T18:05:24.2473230+01:00" endTime="2025-12-06T18:05:24.2476800+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dbd3539c-d5dc-4aab-ba1c-74c389ee8732" />
+    <UnitTestResult executionId="095c3ed3-179b-4c80-9509-4baf631b4ac1" testId="a4033ac2-0946-f8d5-7964-4f85ce38bdf1" testName="Test_OnPost_WithNonExistentUser_ReturnsPage" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000618" startTime="2025-12-06T18:05:24.2466110+01:00" endTime="2025-12-06T18:05:24.2466940+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="095c3ed3-179b-4c80-9509-4baf631b4ac1" />
+    <UnitTestResult executionId="07bbb58a-088d-47b2-8195-a4cc141eeadd" testId="564f38b6-4bd5-c358-cfae-9044a28cc0f1" testName="Test_CanSetBasicProperties" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001325" startTime="2025-12-06T18:05:24.2468720+01:00" endTime="2025-12-06T18:05:24.2470910+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="07bbb58a-088d-47b2-8195-a4cc141eeadd" />
+    <UnitTestResult executionId="32ce1b96-e07d-4a03-8fa9-671ac502070b" testId="4daa9c95-c83e-3137-7256-299e4fc2a067" testName="Test_OnPost_ValidRegistration_SetsLoggedInUser" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000926" startTime="2025-12-06T18:05:24.1215370+01:00" endTime="2025-12-06T18:05:24.1216950+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="32ce1b96-e07d-4a03-8fa9-671ac502070b" />
+    <UnitTestResult executionId="752bf57a-1dc1-4772-af4c-0005d35c18b2" testId="08c9e393-9670-80a9-6fe9-ea41fd35c480" testName="Test_OnPost_WithInvalidRating_ReturnsPageWithErrorMessage" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001353" startTime="2025-12-06T18:05:24.2374800+01:00" endTime="2025-12-06T18:05:24.2376320+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="752bf57a-1dc1-4772-af4c-0005d35c18b2" />
+    <UnitTestResult executionId="bd4382ad-a66b-482d-a283-a69d4f37e53b" testId="8360558a-7f84-c5a1-3566-18b70d43a091" testName="Test_TrenutniUporabnikIme_WithNullUser_ReturnsNull" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000257" startTime="2025-12-06T18:05:24.1251360+01:00" endTime="2025-12-06T18:05:24.1251770+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd4382ad-a66b-482d-a283-a69d4f37e53b" />
+    <UnitTestResult executionId="ec5aaadf-dcef-4ffb-a8b3-e107fb348134" testId="a5973bdd-6a76-e5c8-427d-15637d4008e3" testName="Test_OnGet_WithZanrFilter_FiltersBooksByGenre" computerName="Vids-MacBook-Air-3" duration="00:00:00.0003379" startTime="2025-12-06T18:05:24.2342110+01:00" endTime="2025-12-06T18:05:24.2345870+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ec5aaadf-dcef-4ffb-a8b3-e107fb348134" />
+    <UnitTestResult executionId="5d26d8af-7c50-44e2-9532-7afd25d6f1c2" testId="5f4e6cae-83b4-9d96-8072-fdc431cf70eb" testName="Test_OnPost_ValidRegistration_RedirectsToProfile" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000649" startTime="2025-12-06T18:05:24.1218240+01:00" endTime="2025-12-06T18:05:24.1219070+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5d26d8af-7c50-44e2-9532-7afd25d6f1c2" />
+    <UnitTestResult executionId="c4f70ecf-4383-4f55-b654-8a9736a24b10" testId="2601009a-a254-6ff9-868f-800bbe1e343c" testName="Test_OnPost_ValidCredentials_RedirectsToProfile" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000807" startTime="2025-12-06T18:05:24.1090000+01:00" endTime="2025-12-06T18:05:24.1091040+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4f70ecf-4383-4f55-b654-8a9736a24b10" />
+    <UnitTestResult executionId="f66ad914-432d-4529-93b0-357c87d605b5" testId="6c64c464-7086-2c72-c43b-e9b6b220bcf7" testName="Test_Besedilo_MaxLengthConstraint" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000574" startTime="2025-12-06T18:05:24.2476890+01:00" endTime="2025-12-06T18:05:24.2477660+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f66ad914-432d-4529-93b0-357c87d605b5" />
+    <UnitTestResult executionId="5c041aab-8bb3-4a95-8698-21a6d8893506" testId="7accc061-9d60-4b25-34e6-13948a6bd17d" testName="Test_AliSlediUporabniku_ReturnsCorrectBoolean" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001547" startTime="2025-12-06T18:05:24.2459720+01:00" endTime="2025-12-06T18:05:24.2461430+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5c041aab-8bb3-4a95-8698-21a6d8893506" />
+    <UnitTestResult executionId="15559d61-543a-4cda-9b63-862ab7e8de93" testId="02862347-6d96-632b-c2c7-732a1012280a" testName="Test_CanAssignBasicProperties" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001677" startTime="2025-12-06T18:05:24.2479270+01:00" endTime="2025-12-06T18:05:24.2481140+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="15559d61-543a-4cda-9b63-862ab7e8de93" />
+    <UnitTestResult executionId="19ef35b9-9790-47e5-8d25-ebc89951b974" testId="b04ba8f5-af44-e88d-114d-3038f254a996" testName="Test_OrderOptions_AreCorrectlyInitialized" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001477" startTime="2025-12-06T18:05:24.2355960+01:00" endTime="2025-12-06T18:05:24.2357670+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19ef35b9-9790-47e5-8d25-ebc89951b974" />
+    <UnitTestResult executionId="12deba53-f379-4eb9-8d07-f5e502468a5d" testId="34ed5c88-33d6-0abc-833b-51e5f9f7b27f" testName="Test_ActivityModel_Constructor_SetsDataStore" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001285" startTime="2025-12-06T18:05:24.2445570+01:00" endTime="2025-12-06T18:05:24.2447070+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="12deba53-f379-4eb9-8d07-f5e502468a5d" />
+    <UnitTestResult executionId="d80fe18e-e2b8-472e-b7d3-92d08284c332" testId="98da1ae7-9a8c-6c4c-f787-56806e41ce11" testName="Test_OnPost_WithValidBookAndStatus_UpdatesStatusAndAddsActivity" computerName="Vids-MacBook-Air-3" duration="00:00:00.0005639" startTime="2025-12-06T18:05:24.2425600+01:00" endTime="2025-12-06T18:05:24.2431890+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d80fe18e-e2b8-472e-b7d3-92d08284c332" />
+    <UnitTestResult executionId="d752519d-bd23-4712-8109-46ac09eb409a" testId="0dc2e09e-e558-0164-70ca-fa7acc89a796" testName="Test_OnPost_Invalid_ReturnsPage" computerName="Vids-MacBook-Air-3" duration="00:00:00.0017479" startTime="2025-12-06T18:05:24.1307770+01:00" endTime="2025-12-06T18:05:24.1325660+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d752519d-bd23-4712-8109-46ac09eb409a" />
+    <UnitTestResult executionId="4d582eb4-30fd-4196-995d-c401b14abd33" testId="d74beacc-c55b-9101-4aba-519d68d7bbde" testName="Test_OnGet_SortsBooks" computerName="Vids-MacBook-Air-3" duration="00:00:00.0037665" startTime="2025-12-06T18:05:24.2157680+01:00" endTime="2025-12-06T18:05:24.2196570+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d582eb4-30fd-4196-995d-c401b14abd33" />
+    <UnitTestResult executionId="1b4c4366-fc5c-4288-a938-122f45972b78" testId="bb535885-8f8e-03e4-2d71-c2644cd54dd4" testName="Test_OnPost_ValidRegistration_AddsUser" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001895" startTime="2025-12-06T18:05:24.1096900+01:00" endTime="2025-12-06T18:05:24.1098990+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1b4c4366-fc5c-4288-a938-122f45972b78" />
+    <UnitTestResult executionId="f77861d1-1855-4e08-8157-0d59bb740991" testId="dfeef427-037e-e025-11ae-00dd42c2c9ce" testName="Test_OnPostDelete_DeletesBook" computerName="Vids-MacBook-Air-3" duration="00:00:00.0057905" startTime="2025-12-06T18:05:24.2235700+01:00" endTime="2025-12-06T18:05:24.2293970+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f77861d1-1855-4e08-8157-0d59bb740991" />
+    <UnitTestResult executionId="2a35c551-d965-4ee0-88be-7cab448e0378" testId="3e62da09-27c3-88d7-5e8f-8c8c36046641" testName="Test_OnGet_WithNoBooks_SetsDefaultMessage" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000844" startTime="2025-12-06T18:05:24.2368380+01:00" endTime="2025-12-06T18:05:24.2369420+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2a35c551-d965-4ee0-88be-7cab448e0378" />
+    <UnitTestResult executionId="aee56bbc-3610-4855-8ca5-aba26c6a3c05" testId="c1380a12-b62d-e66d-512f-1bcfe1162514" testName="Test_OnGet_FiltersOutCurrentUser" computerName="Vids-MacBook-Air-3" duration="00:00:00.0004689" startTime="2025-12-06T18:05:24.2447140+01:00" endTime="2025-12-06T18:05:24.2452300+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aee56bbc-3610-4855-8ca5-aba26c6a3c05" />
+    <UnitTestResult executionId="186c5bdd-855e-4cd7-a901-16529e4bb461" testId="a3ce0cfd-3806-aeb3-719d-f9230862f8ef" testName="Test_OnPost_ValidCredentials_LogsActivity" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001033" startTime="2025-12-06T18:05:24.1091130+01:00" endTime="2025-12-06T18:05:24.1092340+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="186c5bdd-855e-4cd7-a901-16529e4bb461" />
+    <UnitTestResult executionId="f09a2082-bc9a-477c-830d-55cf2ed1733a" testId="7f2ba931-a16f-59fa-2a56-75c5facdf9f5" testName="Test_DefaultDatum_IsCurrentDate" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000857" startTime="2025-12-06T18:05:24.2471800+01:00" endTime="2025-12-06T18:05:24.2473130+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f09a2082-bc9a-477c-830d-55cf2ed1733a" />
+    <UnitTestResult executionId="56114223-afb2-4c66-8855-bcdbd12bce25" testId="5bf3e367-5353-2a87-16c8-912230d02325" testName="Test_OnGet_WithNonExistentZanrFilter_ReturnsEmptyList" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000802" startTime="2025-12-06T18:05:24.2358640+01:00" endTime="2025-12-06T18:05:24.2359620+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="56114223-afb2-4c66-8855-bcdbd12bce25" />
+    <UnitTestResult executionId="a67a4c24-ebd9-494c-9d62-96c8e94c5c85" testId="acc2b30b-1b99-e287-5bbb-9dd5fdfbc1a7" testName="Test_OnGet_WithNullActivities_InitializesEmptyList" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001050" startTime="2025-12-06T18:05:24.2444200+01:00" endTime="2025-12-06T18:05:24.2445470+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a67a4c24-ebd9-494c-9d62-96c8e94c5c85" />
+    <UnitTestResult executionId="33ef16b5-22f4-4082-9fc1-6171eb0c965a" testId="a306f926-99d8-fa43-a966-8840f559b6df" testName="Test_OnPost_WithWhitespaceComment_DoesNotAddComment" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000610" startTime="2025-12-06T18:05:24.1227430+01:00" endTime="2025-12-06T18:05:24.1228200+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33ef16b5-22f4-4082-9fc1-6171eb0c965a" />
+    <UnitTestResult executionId="00081f6a-ea07-453d-8b08-6c61e085969a" testId="68604cb1-fe25-bb26-44b1-b95914a58a93" testName="Test_OnGet_PopulatesZanrOptionsFromDataStore" computerName="Vids-MacBook-Air-3" duration="00:00:00.0046887" startTime="2025-12-06T18:05:24.2294170+01:00" endTime="2025-12-06T18:05:24.2341900+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00081f6a-ea07-453d-8b08-6c61e085969a" />
+    <UnitTestResult executionId="d1a3629c-3c63-4bab-a427-255bad9617e7" testId="94555772-8b4c-e8fa-11c8-8b8eae3eec01" testName="Test_OnPost_Valid_AddsBook" computerName="Vids-MacBook-Air-3" duration="00:00:00.0571298" startTime="2025-12-06T18:05:24.0502360+01:00" endTime="2025-12-06T18:05:24.1074980+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d1a3629c-3c63-4bab-a427-255bad9617e7" />
+    <UnitTestResult executionId="994e7a1e-f997-49ad-93fc-24c51d956df4" testId="2a6ca961-434c-12fb-fdec-2a0e7d5cd8f1" testName="Test_DefaultRate_IsZero" computerName="Vids-MacBook-Air-3" duration="00:00:00.0000776" startTime="2025-12-06T18:05:24.2467040+01:00" endTime="2025-12-06T18:05:24.2468580+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="994e7a1e-f997-49ad-93fc-24c51d956df4" />
+    <UnitTestResult executionId="8484b25a-3043-4e31-ab67-c4b8bb5ed8ab" testId="357cc691-cd15-fbe5-e25b-bd521cd8b02d" testName="Test_Komentarji_ReturnsDataStoreComments" computerName="Vids-MacBook-Air-3" duration="00:00:00.0002631" startTime="2025-12-06T18:05:24.1219160+01:00" endTime="2025-12-06T18:05:24.1222380+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8484b25a-3043-4e31-ab67-c4b8bb5ed8ab" />
+    <UnitTestResult executionId="c9b138f0-1922-4ba6-81cf-3111be4e802a" testId="c5d920fc-eaff-e459-2fe2-164fb9df3b7b" testName="Test_OnPost_ValidCredentials_SetsLoggedInUser" computerName="Vids-MacBook-Air-3" duration="00:00:00.0001574" startTime="2025-12-06T18:05:24.1087810+01:00" endTime="2025-12-06T18:05:24.1089850+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c9b138f0-1922-4ba6-81cf-3111be4e802a" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Test_SortOptions_AreCorrectlyInitialized" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="4c93bbeb-28b0-173b-1411-df7b2bfdc8a8">
+      <Execution id="2c26f9fd-d487-4a7c-9e82-a28626a6ba35" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.OrderByModelTests" name="Test_SortOptions_AreCorrectlyInitialized" />
+    </UnitTest>
+    <UnitTest name="Test_TrenutniUporabnikIme_WithNullUser_ReturnsNull" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="8360558a-7f84-c5a1-3566-18b70d43a091">
+      <Execution id="bd4382ad-a66b-482d-a283-a69d4f37e53b" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.DetailsModelTests" name="Test_TrenutniUporabnikIme_WithNullUser_ReturnsNull" />
+    </UnitTest>
+    <UnitTest name="Test_TrenutniUporabnikIme_ReturnsCorrectUsername" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="83063fde-2333-e57e-bacd-a75049076097">
+      <Execution id="9bf59b3d-fc07-4274-a51c-9ead1c883887" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.DetailsModelTests" name="Test_TrenutniUporabnikIme_ReturnsCorrectUsername" />
+    </UnitTest>
+    <UnitTest name="Test_ZanrOptions_IncludesAllGenresFromDataStore" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="ea6fcea1-0a49-d829-dd95-3314cb5197e9">
+      <Execution id="f80e2147-a488-4f6c-be1f-b1ac7348fee1" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.OrderByModelTests" name="Test_ZanrOptions_IncludesAllGenresFromDataStore" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithValidComment_AddsCommentToDataStore" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="c3ad1190-a6fb-826a-cf67-790c2a8f1a88">
+      <Execution id="c02800af-1a14-466a-8edb-016ec944af7e" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.CommentsModelTests" name="Test_OnPost_WithValidComment_AddsCommentToDataStore" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithBooks_SetsRandomBookAndAddsActivity" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="e30d5dd4-81d0-59c0-d67b-4c55b1ff7070">
+      <Execution id="1688ebd7-8d06-4e29-9379-dbc8002a9c0c" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RandomModelTests" name="Test_OnGet_WithBooks_SetsRandomBookAndAddsActivity" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithZeroId_ReturnsErrorMessage" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="35aa97a3-159e-9d02-dbcf-25a91a656417">
+      <Execution id="098ca9a0-f9d8-457c-bc23-d29c60e46eb2" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.StatusModelTests" name="Test_OnPost_WithZeroId_ReturnsErrorMessage" />
+    </UnitTest>
+    <UnitTest name="Test_UserAllowsUpdatingProperties" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="45008162-0e04-553c-6515-ef581a3c2564">
+      <Execution id="c2765c2b-4cd6-4510-b1c3-34b40bbe3d2f" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Models.UporabnikTests" name="Test_UserAllowsUpdatingProperties" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_FindsBookById" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="c7970cce-8d23-7f04-6284-9efcb5d21e61">
+      <Execution id="6c8e0dd6-7eba-434c-91c2-f632d6cc618f" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.DetailsModelTests" name="Test_OnGet_FindsBookById" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_ValidRegistration_AddsActivity" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="7804b9cb-23bf-096d-672b-2ff87e93e617">
+      <Execution id="964fc155-b514-4a8e-b1de-765329305fd0" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RegisterPageTests" name="Test_OnPost_ValidRegistration_AddsActivity" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_Invalid_ReturnsPage" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="0dc2e09e-e558-0164-70ca-fa7acc89a796">
+      <Execution id="d752519d-bd23-4712-8109-46ac09eb409a" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.EditPageTests" name="Test_OnPost_Invalid_ReturnsPage" />
+    </UnitTest>
+    <UnitTest name="Test_OrderOptions_AreCorrectlyInitialized" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="b04ba8f5-af44-e88d-114d-3038f254a996">
+      <Execution id="19ef35b9-9790-47e5-8d25-ebc89951b974" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.OrderByModelTests" name="Test_OrderOptions_AreCorrectlyInitialized" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_Valid_UpdatesBook" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="1652130e-1d0e-77c1-0565-25dc30e9ee25">
+      <Execution id="1c918490-bcb3-4a94-8d24-6437bacc58e2" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.EditPageTests" name="Test_OnPost_Valid_UpdatesBook" />
+    </UnitTest>
+    <UnitTest name="Test_AliSlediUporabniku_ReturnsCorrectBoolean" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="7accc061-9d60-4b25-34e6-13948a6bd17d">
+      <Execution id="5c041aab-8bb3-4a95-8698-21a6d8893506" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.Auth.FollowModelTests" name="Test_AliSlediUporabniku_ReturnsCorrectBoolean" />
+    </UnitTest>
+    <UnitTest name="Test_DefaultValues_AreEmptyStrings" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="e84f7475-30e0-e155-278e-e6eb1d13635d">
+      <Execution id="42f821e0-b2b6-4cab-8f88-0c08d13cc2e0" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Models.UporabnikTests" name="Test_DefaultValues_AreEmptyStrings" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithWhitespaceComment_DoesNotAddComment" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="a306f926-99d8-fa43-a966-8840f559b6df">
+      <Execution id="33ef16b5-22f4-4082-9fc1-6171eb0c965a" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.CommentsModelTests" name="Test_OnPost_WithWhitespaceComment_DoesNotAddComment" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithNoIzbraneKnjige_ReturnsEmptyList" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="5256f161-f0a2-b75e-c506-52ca8d376657">
+      <Execution id="bd147c2a-81eb-43c7-8917-3fe95ddcf978" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.SimilarModelTests" name="Test_OnGet_WithNoIzbraneKnjige_ReturnsEmptyList" />
+    </UnitTest>
+    <UnitTest name="Test_OnPostDelete_DeletesBook" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="dfeef427-037e-e025-11ae-00dd42c2c9ce">
+      <Execution id="f77861d1-1855-4e08-8157-0d59bb740991" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.ListPageTests" name="Test_OnPostDelete_DeletesBook" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithMixedBooks_CalculatesCorrectStatistics" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="1e71b349-a98d-ed74-06fa-a3917a102824">
+      <Execution id="edbf6c7c-8d39-43ae-8066-7d1be03ba0d2" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.StatisticsModelTests" name="Test_OnGet_WithMixedBooks_CalculatesCorrectStatistics" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithNonExistentId_SetsBookToNull" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="7a535069-a7dd-bcf5-8e41-48341fb1b47c">
+      <Execution id="d53a7ac1-9359-4aa9-affb-0ffd4e1881c6" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.DetailsModelTests" name="Test_OnGet_WithNonExistentId_SetsBookToNull" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_LoadsActivitiesFromDataStore" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="54521d38-042a-39ff-3007-71350bc101c6">
+      <Execution id="db4b7bee-3f50-412d-97f7-b094ac5da9d6" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.Auth.ActivityModelTests" name="Test_OnGet_LoadsActivitiesFromDataStore" />
+    </UnitTest>
+    <UnitTest name="Test_DefaultPropertyValues_AreSetCorrectly" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="08ad6991-f7a1-fab3-039c-40298d3366df">
+      <Execution id="feea8a6f-8491-4db3-9231-337d3135f0bc" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.OrderByModelTests" name="Test_DefaultPropertyValues_AreSetCorrectly" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithEmptyComment_DoesNotAddComment" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="435d2ac4-df62-cb88-ef04-e7bdad68e905">
+      <Execution id="ed1ab31c-f544-4252-9862-da5c3aa283ac" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.CommentsModelTests" name="Test_OnPost_WithEmptyComment_DoesNotAddComment" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_UsernameExists_ReturnsPageWithError" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="3340e321-c150-b4e2-bbdb-cb17daa2b576">
+      <Execution id="905add11-468e-424d-9397-910862a8a08b" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RegisterPageTests" name="Test_OnPost_UsernameExists_ReturnsPageWithError" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithInvalidRating_ReturnsPageWithErrorMessage" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="08c9e393-9670-80a9-6fe9-ea41fd35c480">
+      <Execution id="752bf57a-1dc1-4772-af4c-0005d35c18b2" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RateModelTests" name="Test_OnPost_WithInvalidRating_ReturnsPageWithErrorMessage" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithNoBooks_SetsDefaultMessage" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="3e62da09-27c3-88d7-5e8f-8c8c36046641">
+      <Execution id="2a35c551-d965-4ee0-88be-7cab448e0378" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RandomModelTests" name="Test_OnGet_WithNoBooks_SetsDefaultMessage" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithValidBookAndStatus_UpdatesStatusAndAddsActivity" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="98da1ae7-9a8c-6c4c-f787-56806e41ce11">
+      <Execution id="d80fe18e-e2b8-472e-b7d3-92d08284c332" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.StatusModelTests" name="Test_OnPost_WithValidBookAndStatus_UpdatesStatusAndAddsActivity" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_ValidCredentials_LogsActivity" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="a3ce0cfd-3806-aeb3-719d-f9230862f8ef">
+      <Execution id="186c5bdd-855e-4cd7-a901-16529e4bb461" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.LoginPageTests" name="Test_OnPost_ValidCredentials_LogsActivity" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_InvalidModel_ReturnsPage" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="f01b1590-7c02-fd2b-bd2a-37c8d1c69c9c">
+      <Execution id="db8fd5ba-8132-4aee-9417-811e11f657f2" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.AddPageTests" name="Test_OnPost_InvalidModel_ReturnsPage" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_LoadsBook" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="39b0f8b4-50ca-67d3-f8ba-c776722586eb">
+      <Execution id="6ec63a76-9e62-438f-bd26-124cfbe36ae2" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.EditPageTests" name="Test_OnGet_LoadsBook" />
+    </UnitTest>
+    <UnitTest name="Test_CanSetAllProperties" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="6a3f6d7d-3eb2-6929-8342-88a060469781">
+      <Execution id="dbd3539c-d5dc-4aab-ba1c-74c389ee8732" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Models.KomentarTests" name="Test_CanSetAllProperties" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_PopulatesZanrOptionsFromDataStore" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="68604cb1-fe25-bb26-44b1-b95914a58a93">
+      <Execution id="00081f6a-ea07-453d-8b08-6c61e085969a" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.OrderByModelTests" name="Test_OnGet_PopulatesZanrOptionsFromDataStore" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithNonExistentBook_ReturnsPageWithErrorMessage" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="4f66684a-0732-a1da-849e-a4314a2c7bdf">
+      <Execution id="3d818947-80cd-4f67-a7c9-5a5aaedcd0d0" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RateModelTests" name="Test_OnPost_WithNonExistentBook_ReturnsPageWithErrorMessage" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithNullActivities_InitializesEmptyList" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="acc2b30b-1b99-e287-5bbb-9dd5fdfbc1a7">
+      <Execution id="a67a4c24-ebd9-494c-9d62-96c8e94c5c85" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.Auth.ActivityModelTests" name="Test_OnGet_WithNullActivities_InitializesEmptyList" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithNoBooks_ReturnsZeroStatistics" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="367ce0a1-ab85-54c7-ab27-09e9098e8dd3">
+      <Execution id="34241708-e2a5-4be3-a519-7f06fd0cee16" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.StatisticsModelTests" name="Test_OnGet_WithNoBooks_ReturnsZeroStatistics" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_Unfollow_RemovesUserFromFollowing" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="4b5736c7-bd9e-4412-b792-dd7b247642ae">
+      <Execution id="fa95c5ea-6b28-41c0-901a-d3b4485d7a7a" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.Auth.FollowModelTests" name="Test_OnPost_Unfollow_RemovesUserFromFollowing" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithNullCurrentUser_UsesGuestName" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="bc32a502-d063-dc15-4daf-802342bda387">
+      <Execution id="b4175f8c-4d82-4108-b897-cea2c3d711df" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.CommentsModelTests" name="Test_OnPost_WithNullCurrentUser_UsesGuestName" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_ValidRegistration_SetsLoggedInUser" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="4daa9c95-c83e-3137-7256-299e4fc2a067">
+      <Execution id="32ce1b96-e07d-4a03-8fa9-671ac502070b" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RegisterPageTests" name="Test_OnPost_ValidRegistration_SetsLoggedInUser" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_SortsBooks" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="d74beacc-c55b-9101-4aba-519d68d7bbde">
+      <Execution id="4d582eb4-30fd-4196-995d-c401b14abd33" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.ListPageTests" name="Test_OnGet_SortsBooks" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_FiltersOutCurrentUser" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="c1380a12-b62d-e66d-512f-1bcfe1162514">
+      <Execution id="aee56bbc-3610-4855-8ca5-aba26c6a3c05" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.Auth.FollowModelTests" name="Test_OnGet_FiltersOutCurrentUser" />
+    </UnitTest>
+    <UnitTest name="Test_DefaultRate_IsZero" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="2a6ca961-434c-12fb-fdec-2a0e7d5cd8f1">
+      <Execution id="994e7a1e-f997-49ad-93fc-24c51d956df4" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Models.KnjigaTests" name="Test_DefaultRate_IsZero" />
+    </UnitTest>
+    <UnitTest name="Test_Besedilo_MaxLengthConstraint" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="6c64c464-7086-2c72-c43b-e9b6b220bcf7">
+      <Execution id="f66ad914-432d-4529-93b0-357c87d605b5" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Models.KomentarTests" name="Test_Besedilo_MaxLengthConstraint" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_SetsCurrentDateTime" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="9d8c4e36-7cbb-c9c9-1b8b-b5d3de17e77e">
+      <Execution id="a38a72e0-75e8-46ee-92a8-45e85e88c4df" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.CommentsModelTests" name="Test_OnPost_SetsCurrentDateTime" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_ValidCredentials_RedirectsToProfile" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="2601009a-a254-6ff9-868f-800bbe1e343c">
+      <Execution id="c4f70ecf-4383-4f55-b654-8a9736a24b10" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.LoginPageTests" name="Test_OnPost_ValidCredentials_RedirectsToProfile" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithValidRating_UpdatesBookRatingAndAddsActivity" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="c45d22d9-df65-8f10-08ae-23726d7bc196">
+      <Execution id="debcc1b2-db89-42d2-9d0c-2f1ee83f8121" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RateModelTests" name="Test_OnPost_WithValidRating_UpdatesBookRatingAndAddsActivity" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_CallsRazvrstiKnjigeWithCorrectParameters" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="6030637c-4a22-7455-8633-34b95c48cf27">
+      <Execution id="c0e1c2b6-1078-4411-a204-0882befeb8a6" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.OrderByModelTests" name="Test_OnGet_CallsRazvrstiKnjigeWithCorrectParameters" />
+    </UnitTest>
+    <UnitTest name="Test_Status_AllowsAnyString" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="0d4601bd-2145-4426-10fb-1faf944e2fef">
+      <Execution id="69df7749-adde-455b-9b9a-e62579d4dcf6" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Models.KnjigaTests" name="Test_Status_AllowsAnyString" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithZanrFilter_FiltersBooksByGenre" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="a5973bdd-6a76-e5c8-427d-15637d4008e3">
+      <Execution id="ec5aaadf-dcef-4ffb-a8b3-e107fb348134" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.OrderByModelTests" name="Test_OnGet_WithZanrFilter_FiltersBooksByGenre" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_OrdersCommentsByDateDescending" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="e722059b-3db4-19a0-0ce9-3fecee865cad">
+      <Execution id="7187c86c-654c-4f2d-b201-7c1939c8a371" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.DetailsModelTests" name="Test_OnGet_OrdersCommentsByDateDescending" />
+    </UnitTest>
+    <UnitTest name="Test_ActivityModel_Constructor_SetsDataStore" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="34ed5c88-33d6-0abc-833b-51e5f9f7b27f">
+      <Execution id="12deba53-f379-4eb9-8d07-f5e502468a5d" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.Auth.ActivityModelTests" name="Test_ActivityModel_Constructor_SetsDataStore" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_ReturnsRedirectAndSetsRandomBook" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="318f8b18-b1c0-73ce-1e5d-766e2e17d339">
+      <Execution id="29ad6348-5347-418c-92be-d720a3aa47bf" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RandomModelTests" name="Test_OnPost_ReturnsRedirectAndSetsRandomBook" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_ValidRegistration_RedirectsToProfile" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="5f4e6cae-83b4-9d96-8072-fdc431cf70eb">
+      <Execution id="5d26d8af-7c50-44e2-9532-7afd25d6f1c2" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RegisterPageTests" name="Test_OnPost_ValidRegistration_RedirectsToProfile" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_Valid_AddsBook" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="94555772-8b4c-e8fa-11c8-8b8eae3eec01">
+      <Execution id="d1a3629c-3c63-4bab-a427-255bad9617e7" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.AddPageTests" name="Test_OnPost_Valid_AddsBook" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_ValidRegistration_AddsUser" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="bb535885-8f8e-03e4-2d71-c2644cd54dd4">
+      <Execution id="1b4c4366-fc5c-4288-a938-122f45972b78" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.RegisterPageTests" name="Test_OnPost_ValidRegistration_AddsUser" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_Filtering" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="3995413e-b8c2-b453-6f6b-2ea0adef54fb">
+      <Execution id="e74562c6-9a80-4533-849b-249eb72044b9" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.ListPageTests" name="Test_OnGet_Filtering" />
+    </UnitTest>
+    <UnitTest name="Test_DefaultDatum_IsCurrentDate" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="7f2ba931-a16f-59fa-2a56-75c5facdf9f5">
+      <Execution id="f09a2082-bc9a-477c-830d-55cf2ed1733a" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Models.KomentarTests" name="Test_DefaultDatum_IsCurrentDate" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_ValidCredentials_SetsLoggedInUser" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="c5d920fc-eaff-e459-2fe2-164fb9df3b7b">
+      <Execution id="c9b138f0-1922-4ba6-81cf-3111be4e802a" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.LoginPageTests" name="Test_OnPost_ValidCredentials_SetsLoggedInUser" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithIzbraneKnjigeButNoSimilar_ReturnsEmptyList" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="f5c6aff2-0a3b-f6cb-79aa-2bcfa47379b4">
+      <Execution id="90db9a10-b7b7-4343-a61d-646471ee8ff7" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.SimilarModelTests" name="Test_OnGet_WithIzbraneKnjigeButNoSimilar_ReturnsEmptyList" />
+    </UnitTest>
+    <UnitTest name="Test_Komentarji_ReturnsDataStoreComments" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="357cc691-cd15-fbe5-e25b-bd521cd8b02d">
+      <Execution id="8484b25a-3043-4e31-ab67-c4b8bb5ed8ab" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.CommentsModelTests" name="Test_Komentarji_ReturnsDataStoreComments" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_NotFound" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="c3548261-9132-d4fc-36f4-49d5626ddffe">
+      <Execution id="046b353f-0989-4c4d-ad8a-075e8d7602c7" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.EditPageTests" name="Test_OnGet_NotFound" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithNoRatedBooks_CalculatesZeroAverageRating" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="afa8150c-c690-b714-1332-5874d927185b">
+      <Execution id="5a87f225-d96d-48ff-adbe-ba07fc2686f0" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.StatisticsModelTests" name="Test_OnGet_WithNoRatedBooks_CalculatesZeroAverageRating" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_InvalidCredentials_ReturnsPageWithError" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="8e003934-32b5-20fc-14f9-088b4868cf21">
+      <Execution id="6d166483-4528-4b82-bdd5-97517b5c49bd" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.LoginPageTests" name="Test_OnPost_InvalidCredentials_ReturnsPageWithError" />
+    </UnitTest>
+    <UnitTest name="Test_CanAssignBasicProperties" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="02862347-6d96-632b-c2c7-732a1012280a">
+      <Execution id="15559d61-543a-4cda-9b63-862ab7e8de93" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Models.UporabnikTests" name="Test_CanAssignBasicProperties" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithVsiZanrFilter_ShowsAllBooks" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="11d38b96-c14b-623a-5f4e-79db3a5ed217">
+      <Execution id="ce4cf705-8554-44eb-8344-5a0551b2bd48" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.OrderByModelTests" name="Test_OnGet_WithVsiZanrFilter_ShowsAllBooks" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_Follow_AddsUserToFollowing" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="7d64ce6d-d48d-c904-011d-66126eddf998">
+      <Execution id="a6c2068e-91fb-4338-a6ad-aea82159df60" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.Auth.FollowModelTests" name="Test_OnPost_Follow_AddsUserToFollowing" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithNullCurrentUser_ReturnsPage" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="30e9fe08-c01e-2094-4ee2-a863937adcfe">
+      <Execution id="093f7b8a-acb0-400e-b309-4300bedd5cf8" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.Auth.FollowModelTests" name="Test_OnPost_WithNullCurrentUser_ReturnsPage" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithIzbraneKnjige_ReturnsSimilarBooksSameGenre" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="4328df39-6c62-fab9-0f35-355b5650c26a">
+      <Execution id="3ab36a4a-88ea-4350-b98d-5f84a0bd2300" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.SimilarModelTests" name="Test_OnGet_WithIzbraneKnjige_ReturnsSimilarBooksSameGenre" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithNonExistentUser_ReturnsPage" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="a4033ac2-0946-f8d5-7964-4f85ce38bdf1">
+      <Execution id="095c3ed3-179b-4c80-9509-4baf631b4ac1" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.Auth.FollowModelTests" name="Test_OnPost_WithNonExistentUser_ReturnsPage" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_FiltersCommentsByBookId" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="60b0788f-3512-2f53-3920-ff5c3055ce27">
+      <Execution id="aea2fde3-b2f2-4800-b1ca-903f9206e06b" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.DetailsModelTests" name="Test_OnGet_FiltersCommentsByBookId" />
+    </UnitTest>
+    <UnitTest name="Test_CanSetBasicProperties" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="564f38b6-4bd5-c358-cfae-9044a28cc0f1">
+      <Execution id="07bbb58a-088d-47b2-8195-a4cc141eeadd" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Models.KnjigaTests" name="Test_CanSetBasicProperties" />
+    </UnitTest>
+    <UnitTest name="Test_OnGet_WithNonExistentZanrFilter_ReturnsEmptyList" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="5bf3e367-5353-2a87-16c8-912230d02325">
+      <Execution id="56114223-afb2-4c66-8855-bcdbd12bce25" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.OrderByModelTests" name="Test_OnGet_WithNonExistentZanrFilter_ReturnsEmptyList" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_WithNonExistentBook_ReturnsErrorMessage" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="f90798a0-7ac7-bcc0-24e5-b0ad5590f540">
+      <Execution id="4eed1d5d-1e63-40c2-8daa-85c26de6f853" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.StatusModelTests" name="Test_OnPost_WithNonExistentBook_ReturnsErrorMessage" />
+    </UnitTest>
+    <UnitTest name="Test_OnPost_NotLoggedIn_RedirectToLogin" storage="/users/vid.mahoric/desktop/bookbuddy/bookbuddy.tests/bin/debug/net7.0/bookbuddy.tests.dll" id="36e4c318-0510-0c12-f48c-bb6e8032ce15">
+      <Execution id="602a3a61-b369-45b8-b134-2d9bff28d142" />
+      <TestMethod codeBase="/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy.Tests/bin/Debug/net7.0/BookBuddy.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BookBuddy.Tests.Pages.AddPageTests" name="Test_OnPost_NotLoggedIn_RedirectToLogin" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="7d64ce6d-d48d-c904-011d-66126eddf998" executionId="a6c2068e-91fb-4338-a6ad-aea82159df60" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36e4c318-0510-0c12-f48c-bb6e8032ce15" executionId="602a3a61-b369-45b8-b134-2d9bff28d142" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d8c4e36-7cbb-c9c9-1b8b-b5d3de17e77e" executionId="a38a72e0-75e8-46ee-92a8-45e85e88c4df" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e722059b-3db4-19a0-0ce9-3fecee865cad" executionId="7187c86c-654c-4f2d-b201-7c1939c8a371" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="60b0788f-3512-2f53-3920-ff5c3055ce27" executionId="aea2fde3-b2f2-4800-b1ca-903f9206e06b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1e71b349-a98d-ed74-06fa-a3917a102824" executionId="edbf6c7c-8d39-43ae-8066-7d1be03ba0d2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83063fde-2333-e57e-bacd-a75049076097" executionId="9bf59b3d-fc07-4274-a51c-9ead1c883887" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3548261-9132-d4fc-36f4-49d5626ddffe" executionId="046b353f-0989-4c4d-ad8a-075e8d7602c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="367ce0a1-ab85-54c7-ab27-09e9098e8dd3" executionId="34241708-e2a5-4be3-a519-7f06fd0cee16" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e003934-32b5-20fc-14f9-088b4868cf21" executionId="6d166483-4528-4b82-bdd5-97517b5c49bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39b0f8b4-50ca-67d3-f8ba-c776722586eb" executionId="6ec63a76-9e62-438f-bd26-124cfbe36ae2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b5736c7-bd9e-4412-b792-dd7b247642ae" executionId="fa95c5ea-6b28-41c0-901a-d3b4485d7a7a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0d4601bd-2145-4426-10fb-1faf944e2fef" executionId="69df7749-adde-455b-9b9a-e62579d4dcf6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="11d38b96-c14b-623a-5f4e-79db3a5ed217" executionId="ce4cf705-8554-44eb-8344-5a0551b2bd48" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54521d38-042a-39ff-3007-71350bc101c6" executionId="db4b7bee-3f50-412d-97f7-b094ac5da9d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3ad1190-a6fb-826a-cf67-790c2a8f1a88" executionId="c02800af-1a14-466a-8edb-016ec944af7e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c45d22d9-df65-8f10-08ae-23726d7bc196" executionId="debcc1b2-db89-42d2-9d0c-2f1ee83f8121" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6030637c-4a22-7455-8633-34b95c48cf27" executionId="c0e1c2b6-1078-4411-a204-0882befeb8a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="35aa97a3-159e-9d02-dbcf-25a91a656417" executionId="098ca9a0-f9d8-457c-bc23-d29c60e46eb2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4328df39-6c62-fab9-0f35-355b5650c26a" executionId="3ab36a4a-88ea-4350-b98d-5f84a0bd2300" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f5c6aff2-0a3b-f6cb-79aa-2bcfa47379b4" executionId="90db9a10-b7b7-4343-a61d-646471ee8ff7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3995413e-b8c2-b453-6f6b-2ea0adef54fb" executionId="e74562c6-9a80-4533-849b-249eb72044b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc32a502-d063-dc15-4daf-802342bda387" executionId="b4175f8c-4d82-4108-b897-cea2c3d711df" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="45008162-0e04-553c-6515-ef581a3c2564" executionId="c2765c2b-4cd6-4510-b1c3-34b40bbe3d2f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ea6fcea1-0a49-d829-dd95-3314cb5197e9" executionId="f80e2147-a488-4f6c-be1f-b1ac7348fee1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3340e321-c150-b4e2-bbdb-cb17daa2b576" executionId="905add11-468e-424d-9397-910862a8a08b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7804b9cb-23bf-096d-672b-2ff87e93e617" executionId="964fc155-b514-4a8e-b1de-765329305fd0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30e9fe08-c01e-2094-4ee2-a863937adcfe" executionId="093f7b8a-acb0-400e-b309-4300bedd5cf8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="318f8b18-b1c0-73ce-1e5d-766e2e17d339" executionId="29ad6348-5347-418c-92be-d720a3aa47bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="afa8150c-c690-b714-1332-5874d927185b" executionId="5a87f225-d96d-48ff-adbe-ba07fc2686f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1652130e-1d0e-77c1-0565-25dc30e9ee25" executionId="1c918490-bcb3-4a94-8d24-6437bacc58e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="08ad6991-f7a1-fab3-039c-40298d3366df" executionId="feea8a6f-8491-4db3-9231-337d3135f0bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="435d2ac4-df62-cb88-ef04-e7bdad68e905" executionId="ed1ab31c-f544-4252-9862-da5c3aa283ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c7970cce-8d23-7f04-6284-9efcb5d21e61" executionId="6c8e0dd6-7eba-434c-91c2-f632d6cc618f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4c93bbeb-28b0-173b-1411-df7b2bfdc8a8" executionId="2c26f9fd-d487-4a7c-9e82-a28626a6ba35" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a535069-a7dd-bcf5-8e41-48341fb1b47c" executionId="d53a7ac1-9359-4aa9-affb-0ffd4e1881c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e30d5dd4-81d0-59c0-d67b-4c55b1ff7070" executionId="1688ebd7-8d06-4e29-9379-dbc8002a9c0c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f90798a0-7ac7-bcc0-24e5-b0ad5590f540" executionId="4eed1d5d-1e63-40c2-8daa-85c26de6f853" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e84f7475-30e0-e155-278e-e6eb1d13635d" executionId="42f821e0-b2b6-4cab-8f88-0c08d13cc2e0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5256f161-f0a2-b75e-c506-52ca8d376657" executionId="bd147c2a-81eb-43c7-8917-3fe95ddcf978" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f01b1590-7c02-fd2b-bd2a-37c8d1c69c9c" executionId="db8fd5ba-8132-4aee-9417-811e11f657f2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4f66684a-0732-a1da-849e-a4314a2c7bdf" executionId="3d818947-80cd-4f67-a7c9-5a5aaedcd0d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6a3f6d7d-3eb2-6929-8342-88a060469781" executionId="dbd3539c-d5dc-4aab-ba1c-74c389ee8732" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a4033ac2-0946-f8d5-7964-4f85ce38bdf1" executionId="095c3ed3-179b-4c80-9509-4baf631b4ac1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="564f38b6-4bd5-c358-cfae-9044a28cc0f1" executionId="07bbb58a-088d-47b2-8195-a4cc141eeadd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4daa9c95-c83e-3137-7256-299e4fc2a067" executionId="32ce1b96-e07d-4a03-8fa9-671ac502070b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="08c9e393-9670-80a9-6fe9-ea41fd35c480" executionId="752bf57a-1dc1-4772-af4c-0005d35c18b2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8360558a-7f84-c5a1-3566-18b70d43a091" executionId="bd4382ad-a66b-482d-a283-a69d4f37e53b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5973bdd-6a76-e5c8-427d-15637d4008e3" executionId="ec5aaadf-dcef-4ffb-a8b3-e107fb348134" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5f4e6cae-83b4-9d96-8072-fdc431cf70eb" executionId="5d26d8af-7c50-44e2-9532-7afd25d6f1c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2601009a-a254-6ff9-868f-800bbe1e343c" executionId="c4f70ecf-4383-4f55-b654-8a9736a24b10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6c64c464-7086-2c72-c43b-e9b6b220bcf7" executionId="f66ad914-432d-4529-93b0-357c87d605b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7accc061-9d60-4b25-34e6-13948a6bd17d" executionId="5c041aab-8bb3-4a95-8698-21a6d8893506" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="02862347-6d96-632b-c2c7-732a1012280a" executionId="15559d61-543a-4cda-9b63-862ab7e8de93" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b04ba8f5-af44-e88d-114d-3038f254a996" executionId="19ef35b9-9790-47e5-8d25-ebc89951b974" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="34ed5c88-33d6-0abc-833b-51e5f9f7b27f" executionId="12deba53-f379-4eb9-8d07-f5e502468a5d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="98da1ae7-9a8c-6c4c-f787-56806e41ce11" executionId="d80fe18e-e2b8-472e-b7d3-92d08284c332" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0dc2e09e-e558-0164-70ca-fa7acc89a796" executionId="d752519d-bd23-4712-8109-46ac09eb409a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d74beacc-c55b-9101-4aba-519d68d7bbde" executionId="4d582eb4-30fd-4196-995d-c401b14abd33" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bb535885-8f8e-03e4-2d71-c2644cd54dd4" executionId="1b4c4366-fc5c-4288-a938-122f45972b78" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dfeef427-037e-e025-11ae-00dd42c2c9ce" executionId="f77861d1-1855-4e08-8157-0d59bb740991" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3e62da09-27c3-88d7-5e8f-8c8c36046641" executionId="2a35c551-d965-4ee0-88be-7cab448e0378" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1380a12-b62d-e66d-512f-1bcfe1162514" executionId="aee56bbc-3610-4855-8ca5-aba26c6a3c05" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a3ce0cfd-3806-aeb3-719d-f9230862f8ef" executionId="186c5bdd-855e-4cd7-a901-16529e4bb461" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7f2ba931-a16f-59fa-2a56-75c5facdf9f5" executionId="f09a2082-bc9a-477c-830d-55cf2ed1733a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5bf3e367-5353-2a87-16c8-912230d02325" executionId="56114223-afb2-4c66-8855-bcdbd12bce25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="acc2b30b-1b99-e287-5bbb-9dd5fdfbc1a7" executionId="a67a4c24-ebd9-494c-9d62-96c8e94c5c85" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a306f926-99d8-fa43-a966-8840f559b6df" executionId="33ef16b5-22f4-4082-9fc1-6171eb0c965a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="68604cb1-fe25-bb26-44b1-b95914a58a93" executionId="00081f6a-ea07-453d-8b08-6c61e085969a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="94555772-8b4c-e8fa-11c8-8b8eae3eec01" executionId="d1a3629c-3c63-4bab-a427-255bad9617e7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2a6ca961-434c-12fb-fdec-2a0e7d5cd8f1" executionId="994e7a1e-f997-49ad-93fc-24c51d956df4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="357cc691-cd15-fbe5-e25b-bd521cd8b02d" executionId="8484b25a-3043-4e31-ab67-c4b8bb5ed8ab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c5d920fc-eaff-e459-2fe2-164fb9df3b7b" executionId="c9b138f0-1922-4ba6-81cf-3111be4e802a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="73" executed="73" passed="73" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

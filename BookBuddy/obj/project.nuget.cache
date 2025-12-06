@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+I+mT3fD1k=",
+  "dgSpecHash": "3T9FIr9sJ54=",
   "success": true,
-  "projectFilePath": "/Users/vid.mahoric/Desktop/FERI/RAZVOJinGRADNJA/BookBuddy/BookBuddy/BookBuddy.csproj",
+  "projectFilePath": "/Users/vid.mahoric/Desktop/BookBuddy/BookBuddy/BookBuddy.csproj",
   "expectedPackageFiles": [
     "/Users/vid.mahoric/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/vid.mahoric/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",

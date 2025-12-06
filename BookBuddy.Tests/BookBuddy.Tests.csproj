@@ -7,12 +7,12 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
-		<PackageReference Include="MSTest.TestAdapter" Version="3.2.2" />
-		<PackageReference Include="MSTest.TestFramework" Version="3.2.2" />
+		<PackageReference Include="MSTest.TestAdapter" Version="3.4.3" />
+		<PackageReference Include="MSTest.TestFramework" Version="3.4.3" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\\BookBuddy\\BookBuddy.csproj" />
+		<ProjectReference Include="..\BookBuddy\BookBuddy.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
